@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6885b494.chunk.css",
+    "main.js": "./static/js/main.e8e34fc6.chunk.js",
+    "main.js.map": "./static/js/main.e8e34fc6.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.fad1e653.chunk.js": "./static/js/2.fad1e653.chunk.js",
+    "static/js/2.fad1e653.chunk.js.map": "./static/js/2.fad1e653.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.6885b494.chunk.css.map": "./static/css/main.6885b494.chunk.css.map",
+    "static/js/2.fad1e653.chunk.js.LICENSE.txt": "./static/js/2.fad1e653.chunk.js.LICENSE.txt",
+    "static/media/Banner-accessories.bdd2e0fc.png": "./static/media/Banner-accessories.bdd2e0fc.png",
+    "static/media/Banner-phones.5ac9fcba.png": "./static/media/Banner-phones.5ac9fcba.png",
+    "static/media/Banner-tablets.a962057c.png": "./static/media/Banner-tablets.a962057c.png",
+    "static/media/DropdownSelect.scss": "./static/media/Chevron (Arrow Up).1ea6958a.svg",
+    "static/media/GoBackButton.scss": "./static/media/Chevron (Arrow Right).e028d388.svg",
+    "static/media/CartItem.scss": "./static/media/Close.3ea864f5.svg",
+    "static/media/NavLinkMain.scss": "./static/media/Shopping bag (Cart).1962e424.svg",
+    "static/media/Button.scss": "./static/media/Plus.dea15724.svg",
+    "static/media/Crumbs.scss": "./static/media/Home.d4c29e4f.svg",
+    "static/media/LOGO.13ce922e.svg": "./static/media/LOGO.13ce922e.svg",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
+    "static/media/Search.scss": "./static/media/Search.eb670dd9.svg",
+    "static/media/Pagination.scss": "./static/media/Slider button - Disabled (right).7f17c2b6.svg",
+    "static/media/HomePage.scss": "./static/media/tablet.07a53e7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.fad1e653.chunk.js",
+    "static/css/main.6885b494.chunk.css",
+    "static/js/main.e8e34fc6.chunk.js"
+  ]
+}
