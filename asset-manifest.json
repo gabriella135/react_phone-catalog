@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.9e5e2de7.chunk.css",
-    "main.js": "./static/js/main.9f5921b6.chunk.js",
-    "main.js.map": "./static/js/main.9f5921b6.chunk.js.map",
+    "main.css": "./static/css/main.96c3c78b.chunk.css",
+    "main.js": "./static/js/main.85e305fa.chunk.js",
+    "main.js.map": "./static/js/main.85e305fa.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.fad1e653.chunk.js": "./static/js/2.fad1e653.chunk.js",
     "static/js/2.fad1e653.chunk.js.map": "./static/js/2.fad1e653.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.9e5e2de7.chunk.css.map": "./static/css/main.9e5e2de7.chunk.css.map",
+    "static/css/main.96c3c78b.chunk.css.map": "./static/css/main.96c3c78b.chunk.css.map",
     "static/js/2.fad1e653.chunk.js.LICENSE.txt": "./static/js/2.fad1e653.chunk.js.LICENSE.txt",
     "static/media/Banner-accessories.bdd2e0fc.png": "./static/media/Banner-accessories.bdd2e0fc.png",
     "static/media/Banner-phones.5ac9fcba.png": "./static/media/Banner-phones.5ac9fcba.png",
@@ -23,12 +23,14 @@
     "static/media/Search.scss": "./static/media/Search.eb670dd9.svg",
     "static/media/NavLinkMain.scss": "./static/media/Shopping bag (Cart).1962e424.svg",
     "static/media/Pagination.scss": "./static/media/Slider button - Disabled (right).7f17c2b6.svg",
-    "static/media/HomePage.scss": "./static/media/tablet.07a53e7a.png"
+    "static/media/accessories.ca41c40d.png": "./static/media/accessories.ca41c40d.png",
+    "static/media/phone.572a43fa.png": "./static/media/phone.572a43fa.png",
+    "static/media/tablet.07a53e7a.png": "./static/media/tablet.07a53e7a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.fad1e653.chunk.js",
-    "static/css/main.9e5e2de7.chunk.css",
-    "static/js/main.9f5921b6.chunk.js"
+    "static/css/main.96c3c78b.chunk.css",
+    "static/js/main.85e305fa.chunk.js"
   ]
 }
